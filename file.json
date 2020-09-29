@@ -11,5 +11,5 @@
   "AdmobNative": "av",
   "admob_pub_id": "ab",
   "admob_app_id": "av",
-  "adType": "fb"
+  "adType": "admob"
 }
